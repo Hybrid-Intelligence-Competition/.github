@@ -1,12 +1,7 @@
-## Hi there 👋
+## The Hybrid Intelligence Competition (HI Comp)
 
-<!--
+# Hybrid Intelligence (HI) is an emerging system design paradigm in which artificial intelligence (AI) augments, as opposed to replacing, human intelligence. Although there is an increasing emphasis on the idea of HI in the AI literature, there is a lack of systematic methods and metrics for developing HI systems.
 
-**Here are some ideas to get you started:**
+# The Hybrid Intelligence Competition (HI Comp) aims to support the development of high-quality HI (Human-AI) teams, by exploring the possible benefits, risks, and consequences of collaboration between humans and AI systems.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# HI Comp aims at pushing the state-of-the-art in Hybrid Intelligence design, and at generating a first repository of scenarios for researchers and practitioners to guide the development and evaluation of HI teams.
