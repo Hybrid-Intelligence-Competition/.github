@@ -12,6 +12,8 @@ The first iteration of HI Comp was run in three rounds, and led to 48 different 
 
 You can find all the details of the competitions and the repositories containing the scenarios in the following links:
 
-[HI Comp @ HICentreCM 2024]([https://hybrid-intelligence-competition.github.io/HI-Comp-2024-HICentreCM])
-[HI Comp @ AAMAS 2024]([https://hybrid-intelligence-competition.github.io/HI-Comp-2024-AAMAS])
-[HI Comp @ HHAI 2024]([https://hybrid-intelligence-competition.github.io/HI-Comp-2024-HHAI])
+[HI Comp @ HICentreCM 2024](https://hybrid-intelligence-competition.github.io/HI-Comp-2024-HICentreCM])
+
+[HI Comp @ AAMAS 2024](https://hybrid-intelligence-competition.github.io/HI-Comp-2024-AAMAS])
+
+[HI Comp @ HHAI 2024](https://hybrid-intelligence-competition.github.io/HI-Comp-2024-HHAI])
