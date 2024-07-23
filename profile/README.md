@@ -6,7 +6,7 @@ The Hybrid Intelligence Competition (HI Comp), organized by the [Hybrid Intellig
 
 HI Comp aims at pushing the state-of-the-art in Hybrid Intelligence design, and at generating a first repository of scenarios for researchers and practitioners to guide the development and evaluation of HI teams.
 
-The first iteration of HI Comp had as a theme "fundamental qualities of HI teams". The participants of the competition is to formulate HI scenarios that yield best and worst quality HI teams.
+The first iteration of HI Comp had as a theme "fundamental qualities of HI teams". The participants of the competition were challenged to formulate HI scenarios that yield best and worst quality HI teams.
 
 The first iteration of HI Comp was run in three rounds, and led to 48 different HI scenarios (24 best and 24 worst case scenarios).
 
